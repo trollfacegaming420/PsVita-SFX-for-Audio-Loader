@@ -1,0 +1,21 @@
+{
+  "name": "PsVita SFX",
+  "description": "Playstation Vita sounds. These sounds were made by SIE. The files were extracted from rco to wav and m4a.",
+  "author": "trollfacegaming420",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [
+  "bumper_end.wav",
+  "confirmation_negative.wav",
+  "confirmation_positive.wav",
+  "deck_ui_message_toast.wav",
+  "deck_ui_misc_01.wav",
+  "deck_ui_misc_08.wav",
+  "deck_ui_slider_down.wav",
+  "deck_ui_slider_up.wav",
+  "deck_ui_tile_scroll.wav",
+  "pop_sound.wav"
+],
+  "mappings": {}
+}
